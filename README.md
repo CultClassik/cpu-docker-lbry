@@ -1,5 +1,5 @@
-# nv-docker-equihash-ewbf [![Build Status](https://travis-ci.org/CultClassik/cpu-lbry.svg?branch=master)](https://travis-ci.org/CultClassik/cpu-lbry)
-[Image on Docker Hub](https://hub.docker.com/r/cultclassik/cpu-lbry/)
+# cpu-docker-lbry [![Build Status](https://travis-ci.org/CultClassik/cpu-docker-lbry.svg?branch=master)](https://travis-ci.org/CultClassik/cpu-docker-lbry)
+[Image on Docker Hub](https://hub.docker.com/r/cultclassik/cpu-docker-lbry/)
 
 Dockerfile to build cultclassik/cpu-lbry CPU container for mining LBRY/LBC.
 
